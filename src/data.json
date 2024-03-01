@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Rating",
+
+    "rate": [
+      { "num": 5.5 },
+      { "num": 4.3 },
+      { "num": 4.7 },
+      { "num": 5.4 },
+      { "num": 5.3 },
+      { "num": 4.7 }
+    ]
+  },
+  {
+    "title": "Last_Five_Pos",
+    "score": [
+      { "num1": 2, "num2": 2, "num3": 3, "num4": 3, "num5": 2 },
+      { "num1": "-", "num2": 1, "num3": "-", "num4": 3, "num5": 3 },
+      { "num1": "-", "num2": "-", "num3": 3, "num4": "-", "num5": "-" },
+      { "num1": "2", "num2": "-", "num3": "-", "num4": "3", "num5": "-" },
+      { "num1": 2, "num2": 3, "num3": 1, "num4": 2, "num5": 2 },
+      { "num1": 2, "num2": "-", "num3": "-", "num4": "-", "num5": "-" }
+    ]
+  },
+  {
+    "title": "Gender",
+    "gender_type": [
+      { "type": "Dog" },
+      { "type": "Dog" },
+      { "type": "female" },
+      { "type": "female" },
+      { "type": "Dog" },
+      { "type": "female" }
+    ]
+  },
+  {
+    "title": "Racing_Line",
+    "range": [
+      { "rangeType": "Very Wide" },
+      { "rangeType": "Wide" },
+      { "rangeType": "Middle" },
+      { "rangeType": "Wide" },
+      { "rangeType": "Very Wide" },
+      { "rangeType": "Middle" }
+    ]
+  },
+  {
+    "title": "Best_Time",
+    "best_time": [
+      { "time": "17.61 S." },
+      { "time": "19.04 S." },
+      { "time": "19.42 S." },
+      { "time": "17.68 S." },
+      { "time": "20.90 S." },
+      { "time": "17.61 S." }
+    ]
+  }
+]
